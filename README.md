@@ -30,10 +30,11 @@ Users should be able to:
 ### Screenshot
 
 :iphone: **Mobile**
-![Mobile - Standard](./images/mobile.png)
+
 <img src='./images/mobile.png' alt='mobile screenshot' height='600px'>
 
 :desktop-computer: **Desktop**
+
 ![Desktop - Standard](./images/desktop.png)
 ![Desktop - Button hover](./images/desktop-button-hover.png)
 ![Desktop - Icon hover](./images/desktop-icon-hover.png)
