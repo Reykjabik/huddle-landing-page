@@ -1,0 +1,19 @@
+.hero {
+  margin: 0 auto;
+
+  .hero-img {
+    width: 100%;
+    max-width: 43.5rem;
+    margin-top: 4.3125rem;
+    z-index: 3;
+  }
+
+  @include medium {
+    margin: 0;
+    grid-area: hero;
+
+    .hero-img {
+      margin-top: 0;
+    }
+  }
+}

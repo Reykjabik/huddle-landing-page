@@ -1,0 +1,14 @@
+header {
+  // Mobile: 120 x 19 (0.32vw)
+  // Desktop: 200 x 32 (.14vw)
+  width: clamp(7.5rem, 32vw, 12.5rem);
+
+  img {
+    width: 100%;
+    cursor: pointer;
+  }
+
+  @include medium {
+    grid-area: header;
+  }
+}

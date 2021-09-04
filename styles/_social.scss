@@ -1,0 +1,51 @@
+.social {
+  margin-top: 2.3125rem;
+  margin: 0 auto;
+  @include flex(row);
+  width: 6.875rem;
+  justify-content: space-between;
+
+  a {
+    border: 1.5px solid white;
+    border-radius: 50%;
+    width: 1.6875rem;
+    height: 1.6875rem;
+    @include flex(row);
+    justify-content: center;
+    align-items: center;
+
+    &:hover {
+      border: 1.5px solid $secondary-magenta;
+
+      & i {
+        color: $secondary-magenta;
+      }
+    }
+
+    // &:hover i {
+    //   color: $secondary-magenta;
+    // }
+  }
+
+  i {
+    font-size: 0.85rem;
+    color: #fff;
+  }
+
+  @include medium {
+    grid-area: social;
+    align-self: end;
+    position: absolute;
+    right: 0;
+    width: 10rem;
+
+    a {
+      width: 2.5rem;
+      height: 2.5rem;
+    }
+
+    i {
+      font-size: 1.225rem;
+    }
+  }
+}
