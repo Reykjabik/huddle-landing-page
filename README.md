@@ -29,10 +29,11 @@ Users should be able to:
 
 ### Screenshot
 
-:ipad: **Mobile**
+:iphone: **Mobile**
 ![Mobile - Standard](./images/mobile.png)
+<img src='./images/mobile.png' alt='mobile screenshot' height='600px'>
 
-:laptop: **Desktop**
+:desktop-computer: **Desktop**
 ![Desktop - Standard](./images/desktop.png)
 ![Desktop - Button hover](./images/desktop-button-hover.png)
 ![Desktop - Icon hover](./images/desktop-icon-hover.png)
