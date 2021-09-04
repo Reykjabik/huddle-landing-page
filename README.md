@@ -42,67 +42,37 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [GitHub Page](https://reykjabik.github.io/huddle-landing-page/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- SCSS
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+I learnt SASS! Or rather SCSS. This is my first attempt at styling a website using this superset of CSS. I cannot say it's been difficult, since it's pretty similar to CSS, but I admit that I still need to improve the way I use `@mixin`s, especially for responsive purposes. I have seen a few ways of doing this, with and without *media queries*, and I ended up using a mixture.  
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I still feel that my (S)CSS code is not very clean, and this is probably because of lack of design planning. I am thinking of just looking at the design and drafting on a piece of paper what the structure and different measures will be in my implementation. I keep looking at Figma to measure every single distance or measure on the go, and I always end up with a mingle of paddings, margins and very specific rems to make the design as *pixel perfect* as I can make it. I am not sure how people do it, but I am sure it will help me clear some code.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [CSS Tricks - Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - A classic. I end up coming back to this on almost every project.
+- [FreeCodeCamp SASS Tutorial](https://www.youtube.com/watch?v=_a5j7KoflTs&t=4520s) - Obviously learning Sass has been a big part of this project. This is the video with which I started and although I haven't finished, it explais very clearly the main features.
+- [Brad Traversy SASS Crash Course](https://www.youtube.com/watch?v=nu5mdN2JIwM) - Some reinforcement from the previous video. More straight, mostly focused on applying Sass.
+- [Geeks For Geeks How to Load Font Awesome Using SCSS](https://www.geeksforgeeks.org/how-to-load-font-awesome-using-scss/) - It might seem too easy for many, but I did have troubles managing Font Awesome with SCSS. I didn't find the official documentation useful and this link offered the help I needed.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@reykjabik](https://www.frontendmentor.io/profile/reykjabik)
+- Twitter - [@strangerin_](https://twitter.com/strangerin_)
 
 ## Acknowledgments
 
